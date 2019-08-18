@@ -38,6 +38,7 @@ h2 {
 	line-height: .75;
 	margin: 10px 0;
 }
+
 /* styling my button */
 
 .white-mode {
@@ -59,21 +60,24 @@ h2 {
 }
 
 /* footer */
+.social-box .list-social{
+    list-style: none;
+}
 .footer
 {	
 	position: relative;
-	background: url('./images/footer1.jpg');
+	background: #000000;
 	padding:10px 100px 10px;
 	text-align: center;
 	z-index: 999;
 	margin: 0;
-	bottom:0px!important;
+	bottom:0px;
 	color: #ffffff;
 }
 
 .footer-item .social
 {
-	color:#fff;
+	color:#ffffff;
 	font-size: 30px;
 }
 .fa-facebook-f.social
