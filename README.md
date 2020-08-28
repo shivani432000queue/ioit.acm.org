@@ -1,2 +1,2 @@
 # ioit.acm.org
-AISSMS_IOIT_ACM_Student_Chapter
+This repo contains all versions and Source Code for official website of "AISSMS IOIT ACM Student Chapter"
